@@ -1,5 +1,9 @@
 # cheap wifi deauthorizer detector(detector de desautorizadores wifi baratos)
-> Conceptos previos:
+> [!NOTE]
+> Este proyecto se actualizo,ahora el codigo esta disponible,disculpen la demora.
+
+
+ Conceptos previos:
 Este proyecto usa un `esp32`,debido a su capacidad wifi,lo que le permite ser usado como como `escaner wifi`
 
 ¿Como funciona?
@@ -15,7 +19,7 @@ El esp32 tambien puede hacerlo,y el codigo de arriba es la clave,aunque el codig
 
 1.Descarge el codigo `.ino`
 
-2. Configure su placa esp32 en el arduino Ide
+2.Configure su placa esp32 en el arduino Ide
    
 3.Presione el boton subir
 
