@@ -24,7 +24,7 @@ void loop()
         Serial.println("no deauther found");
     } else {
         for (int i = 0; i < n; ++i) {
-          if(WiFi.SSID(i)=="esptxl332"){
+          if(WiFi.SSID(i)=="pwned"){
             //print "pwned" network characteristics
             Serial.print("ntwrk:");
             Serial.print(WiFi.SSID(i));
